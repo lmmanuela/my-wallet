@@ -71,7 +71,7 @@ Ikuti langkah berikut untuk menjalankan aplikasi di komputermu:
 
 1.  **Clone Repository ini:**
     ```bash
-    git clone [https://github.com/username-kamu/My-Wallet.git](https://github.com/username-kamu/My-Wallet.git)
+    git clone [https://github.com/lmmanuela/My-Wallet.git](https://github.com/lmmanuela/My-Wallet.git)
     cd My-Wallet
     ```
 
@@ -80,12 +80,10 @@ Ikuti langkah berikut untuk menjalankan aplikasi di komputermu:
 
 3.  **Jalankan Aplikasi:**
     ```bash
-    python uasfix.py
+    python wallet.py
     ```
-    *(Catatan: Jika nama file kamu ubah, sesuaikan perintah di atas)*
 
 ## 📂 Struktur Project
-
 
 
 My-Wallet/

@@ -63,7 +63,7 @@ Proyek ini dibangun menggunakan prinsip OOP yang kuat untuk memastikan kode rapi
 
 | Login Screen | Dashboard Utama |
 |:---:|:---:|
-| <img src="https://via.placeholder.com/400x300?text=Login+Screen" width="400"> | <img src="https://via.placeholder.com/400x300?text=Dashboard+Screen" width="400"> |
+| <img src="login.png" width="400"> | <img src="dashboard.png" width="400"> |
 
 ## 🚀 Cara Instalasi & Penggunaan
 

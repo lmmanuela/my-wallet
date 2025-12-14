@@ -85,14 +85,14 @@ Ikuti langkah berikut untuk menjalankan aplikasi di komputermu:
 
 ## 📂 Struktur Project
 
-
+```text
 My-Wallet/
 │
-├── uasfix.py            \# Source code utama (Main Program)
-├── dompet\_pintar.db     \# Database (Otomatis dibuat saat dijalankan)
-├── README.md            \# Dokumentasi Project
-└── Laporan.csv          \# Hasil export (Opsional)
-
+├── uasfix.py            # Source code utama (Main Program)
+├── dompet_pintar.db     # Database (Otomatis dibuat saat dijalankan)
+├── README.md            # Dokumentasi Project
+└── Laporan.csv          # Hasil export (Opsional)
+```
 
 ## 🤝 Kontribusi
 

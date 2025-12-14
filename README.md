@@ -1,8 +1,7 @@
 
-<div align="center"> 
-# 🌸 My-Wallet (Dompet Pintar) 
-</div>
----
+
+#🌸 My-Wallet (Dompet Pintar) 
+
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)

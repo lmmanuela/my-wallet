@@ -71,7 +71,7 @@ Ikuti langkah berikut untuk menjalankan aplikasi di komputermu:
 
 1.  **Clone Repository ini:**
     ```bash
-    git clone [https://github.com/lmmanuela/My-Wallet.git](https://github.com/lmmanuela/My-Wallet.git)
+    git clone https://github.com/lmmanuela/My-Wallet.git
     cd My-Wallet
     ```
 

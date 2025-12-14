@@ -109,6 +109,6 @@ Project ini dibuat untuk tujuan edukasi. Bebas digunakan dan dimodifikasi.
 ---
 <div align="center">
 
-**Dibuat dengan 💖 dan ☕ oleh [Angelica Immanuela]**
+**Dibuat dengan 💖 dan ☕ oleh Angelica Immanuela**
 
 </div>

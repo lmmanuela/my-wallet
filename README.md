@@ -1,5 +1,5 @@
 
-# 🌸 My-Wallet (Dompet Pintar)
+<div align="center"> # 🌸 My-Wallet (Dompet Pintar) </div>
 
 <div align="center">
 
@@ -86,7 +86,7 @@ Ikuti langkah berikut untuk menjalankan aplikasi di komputermu:
 
 ## 📂 Struktur Project
 
-````
+
 
 My-Wallet/
 │
@@ -95,7 +95,6 @@ My-Wallet/
 ├── README.md            \# Dokumentasi Project
 └── Laporan.csv          \# Hasil export (Opsional)
 
-```
 
 ## 🤝 Kontribusi
 
@@ -115,7 +114,3 @@ Project ini dibuat untuk tujuan edukasi. Bebas digunakan dan dimodifikasi.
 **Dibuat dengan 💖 dan ☕ oleh [Angelica Immanuela]**
 
 </div>
-
-
-2.  **Rename File:** Sebaiknya rename `uasfix (1).py` menjadi `main.py` atau `app.py` di GitHub agar terlihat lebih standar profesional. Jangan lupa update bagian "Cara Instalasi" di README jika kamu mengubah nama filenya.
-3.  **Nama:** Di bagian bawah "Dibuat oleh...", ganti `[Nama Kamu]` dengan nama aslimu atau username GitHub-mu.
